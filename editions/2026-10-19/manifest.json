@@ -1,28 +1,28 @@
 [
   {
-    "arquivo": "editions/2026-10-19/mindrise-ia-cover-2026-10-19-ilustrado-creme.svg",
+    "arquivo": "editions/2026-10-19/mindrise-ia-cover-2026-10-19-ilustrado-lavanda.svg",
     "marca": "ia",
     "tipo": "cover",
     "variante": "ilustrado",
-    "fundo": "creme",
+    "fundo": "lavanda",
     "formato": "svg",
     "tamanho": "vetor"
   },
   {
-    "arquivo": "editions/2026-10-19/mindrise-ia-cover-2026-10-19-ilustrado-creme-1200.png",
+    "arquivo": "editions/2026-10-19/mindrise-ia-cover-2026-10-19-ilustrado-lavanda-1200.png",
     "marca": "ia",
     "tipo": "cover",
     "variante": "ilustrado",
-    "fundo": "creme",
+    "fundo": "lavanda",
     "formato": "png",
     "tamanho": "1200"
   },
   {
-    "arquivo": "editions/2026-10-19/mindrise-ia-cover-2026-10-19-ilustrado-creme-2400.png",
+    "arquivo": "editions/2026-10-19/mindrise-ia-cover-2026-10-19-ilustrado-lavanda-2400.png",
     "marca": "ia",
     "tipo": "cover",
     "variante": "ilustrado",
-    "fundo": "creme",
+    "fundo": "lavanda",
     "formato": "png",
     "tamanho": "2400"
   }

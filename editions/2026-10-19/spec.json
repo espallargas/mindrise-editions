@@ -1,8 +1,8 @@
 {
  "data": "2026-10-19",
- "fundo": "creme",
- "motivo": "tigela-de-pesos-abertos",
- "ideia": "Tigela com três círculos saindo: a Reflection libera os pesos abertos do Beam, um modelo enxuto em tokens.",
+ "fundo": "lavanda",
+ "motivo": "arcos-alto-e-baixo",
+ "ideia": "Dois arcos lado a lado, o baixo com um terço da altura do alto: o Beam gastou cerca de 25 mil tokens por tentativa contra 80 mil do rival chinês.",
  "evento": {
   "titulo": "Reflection lança Beam, modelo aberto de 501 bi parâmetros",
   "empresa": "Reflection AI",
