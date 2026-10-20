@@ -1,0 +1,11 @@
+{
+ "data": "2026-10-20",
+ "fundo": "ameixa-light",
+ "motivo": "chips-troca-uma-linha",
+ "ideia": "Dois chips lado a lado ligados por uma barra curta: o da Nvidia, esmaecido, e o do Trainium, em tinta; a troca custa uma linha de configuração.",
+ "evento": {
+  "titulo": "Amazon lança TorchNeuron para rodar PyTorch em chips Trainium",
+  "empresa": "Amazon",
+  "categoria": "Produtos"
+ }
+}
