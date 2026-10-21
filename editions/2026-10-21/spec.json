@@ -1,0 +1,11 @@
+{
+ "data": "2026-10-21",
+ "fundo": "lavanda",
+ "motivo": "tres-chips-tpu-entra",
+ "ideia": "Três círculos de duas metades com furo lado a lado: dois em ameixa e o terceiro em tinta, a TPU que entra como opção nativa do PyTorch ao lado de GPUs e CPUs.",
+ "evento": {
+  "titulo": "Google libera código aberto do TorchTPU, back end de PyTorch para TPUs",
+  "empresa": "Google",
+  "categoria": "Produtos"
+ }
+}
