@@ -1,0 +1,11 @@
+{
+ "data": "2026-10-22",
+ "fundo": "ameixa-mid",
+ "motivo": "bloco-com-dois-furos",
+ "ideia": "Um bloco sólido com dois furos na cor do fundo: as duas falhas críticas que a IA achou no PHP, a linguagem por trás da maior parte dos sites.",
+ "evento": {
+  "titulo": "PHP lança correção para duas falhas críticas de execução remota",
+  "empresa": "PHP Foundation",
+  "categoria": "Riscos e segurança"
+ }
+}

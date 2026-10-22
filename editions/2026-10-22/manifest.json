@@ -1,0 +1,29 @@
+[
+  {
+    "arquivo": "editions/2026-10-22/mindrise-ia-cover-2026-10-22-ilustrado-ameixa-mid.svg",
+    "marca": "ia",
+    "tipo": "cover",
+    "variante": "ilustrado",
+    "fundo": "ameixa-mid",
+    "formato": "svg",
+    "tamanho": "vetor"
+  },
+  {
+    "arquivo": "editions/2026-10-22/mindrise-ia-cover-2026-10-22-ilustrado-ameixa-mid-1200.png",
+    "marca": "ia",
+    "tipo": "cover",
+    "variante": "ilustrado",
+    "fundo": "ameixa-mid",
+    "formato": "png",
+    "tamanho": "1200"
+  },
+  {
+    "arquivo": "editions/2026-10-22/mindrise-ia-cover-2026-10-22-ilustrado-ameixa-mid-2400.png",
+    "marca": "ia",
+    "tipo": "cover",
+    "variante": "ilustrado",
+    "fundo": "ameixa-mid",
+    "formato": "png",
+    "tamanho": "2400"
+  }
+]
