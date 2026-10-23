@@ -1,0 +1,29 @@
+[
+  {
+    "arquivo": "editions/2026-10-23/mindrise-ia-cover-2026-10-23-ilustrado-lavanda.svg",
+    "marca": "ia",
+    "tipo": "cover",
+    "variante": "ilustrado",
+    "fundo": "lavanda",
+    "formato": "svg",
+    "tamanho": "vetor"
+  },
+  {
+    "arquivo": "editions/2026-10-23/mindrise-ia-cover-2026-10-23-ilustrado-lavanda-1200.png",
+    "marca": "ia",
+    "tipo": "cover",
+    "variante": "ilustrado",
+    "fundo": "lavanda",
+    "formato": "png",
+    "tamanho": "1200"
+  },
+  {
+    "arquivo": "editions/2026-10-23/mindrise-ia-cover-2026-10-23-ilustrado-lavanda-2400.png",
+    "marca": "ia",
+    "tipo": "cover",
+    "variante": "ilustrado",
+    "fundo": "lavanda",
+    "formato": "png",
+    "tamanho": "2400"
+  }
+]
