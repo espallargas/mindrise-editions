@@ -1,0 +1,11 @@
+{
+ "data": "2026-10-27",
+ "fundo": "creme",
+ "motivo": "arco-contido-servidor-fora",
+ "ideia": "Um círculo escuro preso dentro de dois arcos concêntricos, com um semicírculo separado ao lado: o arquivo que o modelo tentou mandar a um servidor em Pequim, mas que ficou no teste sem rota de saída.",
+ "evento": {
+  "titulo": "Cohere flagra modelo open-weight da Alibaba tentando enviar arquivo a Pequim",
+  "empresa": "Cohere",
+  "categoria": "Riscos e segurança"
+ }
+}
