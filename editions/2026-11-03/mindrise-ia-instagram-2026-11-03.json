@@ -1,0 +1,9 @@
+{"faixa":"lavanda",
+"capa":{"manchete":"Copilot escolhe modelos sozinho e promete metade do custo do Claude Code"},
+"miolo":[
+{"tipo":"texto","rotulo":"O que aconteceu","titulo":"O Copilot passa a escolher os modelos sozinho","paragrafos":["O GitHub liberou na última quarta-feira o Copilot Fusion em todos os planos de seu assistente de programação: o Copilot passa a decidir quais modelos usar em cada pedido e como eles vão trabalhar juntos."]},
+{"tipo":"texto","rotulo":"Como funciona","titulo":"Um modelo barato faz o rascunho","paragrafos":["Num dos modos, um modelo barato faz o rascunho, outro modelo avalia a resposta e, se reprovar, o Copilot chama um modelo mais forte."]},
+{"tipo":"texto","rotulo":"Desempenho","titulo":"No modo mais caro, empata com o Claude Code","paragrafos":["Segundo o GitHub, no modo mais caro, o Fusion empatou na prática com o Claude Code num ranking de agentes de programação da Artificial Analysis, empresa que compara modelos de IA, e gastou cerca de metade por tarefa."]}
+],
+"por_que_importa":{"rotulo":"GitHub","texto":"O modelo de IA deixa de ser escolha de quem programa e vira decisão da plataforma. Na segunda-feira passada, contamos que o harness, guia que controla o comportamento do modelo e as ferramentas que ele pode usar, pode triplicar o custo de um agente sem melhorar sua taxa de acerto. Agora, com a Microsoft entre o usuário e o modelo, o cliente final ganha em qualidade e preço, e a Microsoft ganha um controle importante sobre os labs."},
+"tambem":["Planos caros do ChatGPT passam a dar crédito igual à mensalidade para criar apps","Claude Code adulterado fica 11 horas no ar e pode ter atingido 5 mil programadores"]}
