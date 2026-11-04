@@ -1,0 +1,43 @@
+{
+ "faixa": "ameixa-dark",
+ "capa": {
+  "manchete": "Anthropic cria impressão digital que revela qual IA escreveu cada resposta"
+ },
+ "miolo": [
+  {
+   "tipo": "texto",
+   "rotulo": "O que aconteceu",
+   "titulo": "A Anthropic publicou um sistema aberto que prova qual modelo respondeu",
+   "paragrafos": [
+    "A Anthropic publicou nesta segunda o FlashProve, sistema aberto que prova de qual modelo saiu uma resposta.",
+    "Otimizações feitas pelo Claude deixaram mais rápida a geração dessas provas."
+   ]
+  },
+  {
+   "tipo": "texto",
+   "rotulo": "Como funciona",
+   "titulo": "A prova pode flagrar troca de modelo",
+   "paragrafos": [
+    "Para conferir, basta a pergunta, a resposta e uma impressão digital do modelo, sem revelar seus detalhes internos de aprendizado.",
+    "Um dos usos possíveis é flagrar serviços que trocam o modelo por um mais barato sem avisar."
+   ]
+  },
+  {
+   "tipo": "texto",
+   "rotulo": "Limites",
+   "titulo": "Gerar a prova ainda sai caro",
+   "paragrafos": [
+    "Gerar a prova leva de 70 a 95 vezes o tempo de processamento de uma resposta normal e só funciona com textos curtos.",
+    "A Anthropic ainda não planeja colocar o FlashProve em uso, nem nos próprios produtos nem em outras empresas de IA."
+   ]
+  }
+ ],
+ "por_que_importa": {
+  "rotulo": "Anthropic",
+  "texto": "A confiança do usuário na sua IA do dia a dia sai da palavra do lab e vai para uma verificação independente. Com agentes cada vez mais autônomos escolhendo sozinhos o modelo de cada tarefa, essa prova tira dos labs de IA o benefício da dúvida e dá a reguladores uma forma de garantir que só modelos aprovados fiquem no ar."
+ },
+ "tambem": [
+  "Anthropic diz que pode estar perto de IA que acelera a si mesma",
+  "Oracle capta US$ 20 bilhões e esgota seu teto de captação previsto até 2030"
+ ]
+}
