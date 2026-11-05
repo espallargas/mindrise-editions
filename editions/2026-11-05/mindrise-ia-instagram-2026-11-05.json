@@ -1,0 +1,42 @@
+{
+ "faixa": "lavanda",
+ "capa": {
+  "manchete": "Em uma rodada, agentes da OpenAI acham 948 falhas graves no Linux"
+ },
+ "miolo": [
+  {
+   "tipo": "texto",
+   "rotulo": "O que aconteceu",
+   "titulo": "A OpenAI gastou US$ 1,2 milhão para achar 948 falhas",
+   "paragrafos": [
+    "A OpenAI contou nesta quarta que gastou US$ 1,2 milhão (cerca de R$ 6,6 milhões) para seus agentes de IA acharem, testarem e escreverem correções para 948 falhas que deixam um usuário comum do Linux virar administrador."
+   ]
+  },
+  {
+   "tipo": "numero",
+   "rotulo": "Escala",
+   "valor": "948",
+   "legenda": "falhas graves no Linux numa única rodada",
+   "paragrafos": [
+    "Especialistas costumam achar cerca de 20 falhas graves por ano no Linux, sistema operacional de código aberto usado pela maioria dos servidores ao redor do mundo."
+   ]
+  },
+  {
+   "tipo": "texto",
+   "rotulo": "Como foi feito",
+   "titulo": "Os agentes testaram cada suspeita",
+   "paragrafos": [
+    "Os agentes apontaram suspeitas no código, testaram cada uma numa máquina isolada e só contaram as falhas que de fato davam o controle total.",
+    "O modelo que fez o trabalho ainda não foi lançado."
+   ]
+  }
+ ],
+ "por_que_importa": {
+  "rotulo": "OpenAI",
+  "texto": "Falhas graves no Linux, que especialistas achavam a conta-gotas, agora são encontradas pelas IAs mais capazes. No PHP, usado na maior parte dos sites, correções de falhas desse tipo levaram mais de dois meses depois do primeiro alerta. Mesmo que os labs represem seus modelos e corrijam os sistemas mais usados, empresas e projetos menores dificilmente vão acompanhar esse ritmo e ficam cada vez mais expostos a modelos mais poderosos."
+ },
+ "tambem": [
+  "Com US$ 32 milhões, startup empata com o melhor modelo aberto dos EUA em programação",
+  "Moonshot abre seu modelo mais forte, com restrições para uso em ataques cibernéticos"
+ ]
+}
