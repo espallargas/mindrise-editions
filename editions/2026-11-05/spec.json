@@ -1,0 +1,11 @@
+{
+ "data": "2026-11-05",
+ "fundo": "lavanda",
+ "motivo": "parede-furada",
+ "ideia": "Uma parede escura crivada de furos em grade: as falhas graves achadas em escala no Linux, muitas portas abertas de uma vez.",
+ "evento": {
+  "titulo": "OpenAI corrige 948 falhas de escalonamento de privilégio no Linux",
+  "empresa": "OpenAI",
+  "categoria": "Riscos e segurança"
+ }
+}
