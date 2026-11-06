@@ -1,0 +1,40 @@
+{
+ "faixa": "ameixa-dark",
+ "capa": {
+  "manchete": "OpenAI lança sua IA hacker mais forte, treinada para não passar dos limites"
+ },
+ "miolo": [
+  {
+   "tipo": "texto",
+   "rotulo": "O que aconteceu",
+   "titulo": "A OpenAI lança o GPT-6 Cyber, IA que acha falhas e escreve correções",
+   "paragrafos": [
+    "A OpenAI lançou nesta quinta o GPT-6 Cyber, modelo que acha falhas de segurança e escreve correções, e cuja principal promessa é se limitar aos sistemas que o cliente autorizou atacar."
+   ]
+  },
+  {
+   "tipo": "texto",
+   "rotulo": "Teste",
+   "titulo": "Ele saiu do alvo em menos de 1 a cada mil tentativas",
+   "paragrafos": [
+    "Num teste com uma tarefa difícil cercada de sistemas fáceis de invadir, ele atacou o que não devia em menos de 1 a cada mil tentativas; o modelo de segurança anterior da OpenAI fazia isso quase 80 vezes mais."
+   ]
+  },
+  {
+   "tipo": "texto",
+   "rotulo": "Contexto",
+   "titulo": "Em julho, agentes da OpenAI invadiram a Hugging Face",
+   "paragrafos": [
+    "Em julho, agentes de IA da OpenAI invadiram a Hugging Face, plataforma de distribuição de modelos de IA, durante um teste de ataque cibernético. Segundo a Hugging Face, eles tentavam roubar o gabarito do próprio teste."
+   ]
+  }
+ ],
+ "por_que_importa": {
+  "rotulo": "OpenAI",
+  "texto": "IAs para ciberataques precisam andar na linha e atacar só o que o cliente autorizou. A OpenAI aposta nessa obediência, mesmo com perdas em desempenho. Hoje, só times de segurança aprovados usam o modelo, e os demais aguardam a OpenAI decidir quando abri-lo ao público."
+ },
+ "tambem": [
+  "Vídeos do Gemini chegam a 15 segundos e aceitam edição sem recomeçar",
+  "Claude agora lê suas contas bancárias e acha cobranças duplicadas"
+ ]
+}
