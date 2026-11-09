@@ -1,0 +1,9 @@
+{"faixa":"lavanda",
+"capa":{"manchete":"Conselho da Nvidia investiga relação do CEO com suposta espiã chinesa"},
+"miolo":[
+{"tipo":"texto","rotulo":"O que aconteceu","titulo":"O conselho da Nvidia abriu uma investigação independente","paragrafos":["O conselho da Nvidia anunciou neste domingo uma investigação independente sobre a relação de Jensen Huang com uma ex-executiva que, segundo um memorando da inteligência americana, foi recrutada pelo governo chinês para espionar o CEO."]},
+{"tipo":"texto","rotulo":"O memorando","titulo":"A ex-executiva trabalhou na Megaspeed","paragrafos":["A ex-executiva é Alice Huang, que trabalhou na Megaspeed, empresa de chips de Singapura; o memorando circulou entre autoridades americanas.","Segundo o Financial Times, o memorando também diz que os dois tinham um relacionamento amoroso."]},
+{"tipo":"texto","rotulo":"A resposta","titulo":"Jensen Huang admitiu infidelidade, sem dizer com quem","paragrafos":["Neste domingo, Jensen Huang admitiu, em mensagem aos funcionários, que foi infiel à esposa, sem dizer com quem.","Antes da investigação, a Nvidia disse que não compartilha informação sigilosa com clientes."]}
+],
+"por_que_importa":{"rotulo":"Nvidia","texto":"Até aqui, a desconfiança entre EUA e China na corrida da IA recaía sobre modelos chineses e empresas que revendem chips. Agora o embate sobe um nível e chega ao CEO da Nvidia. Jensen Huang, próximo do presidente Donald Trump, depende da confiança de Washington, que decide quais empresas chinesas podem comprar os chips mais avançados da Nvidia."},
+"tambem":["Agentes de IA traduzem 7,5 mil páginas de matemática para o computador conferir","Agentes da Perplexity seguem com as tarefas sem esperar um novo pedido"]}
