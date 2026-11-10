@@ -1,0 +1,42 @@
+{
+ "faixa": "ameixa-dark",
+ "capa": {
+  "manchete": "Claude Fable 5.2 retoma do Gemini o topo do ranking de IA"
+ },
+ "miolo": [
+  {
+   "tipo": "texto",
+   "rotulo": "O que aconteceu",
+   "titulo": "A Anthropic lançou o Claude Fable 5.2",
+   "paragrafos": [
+    "A Anthropic lançou nesta segunda o Claude Fable 5.2, seu modelo mais capaz aberto ao público, também nas nuvens da Amazon e do Google.",
+    "A versão com menos travas, o Mythos 5.2, ficou restrita a organizações de cibersegurança e de pesquisa em biologia e saúde previamente selecionadas."
+   ]
+  },
+  {
+   "tipo": "texto",
+   "rotulo": "Ranking",
+   "titulo": "O Fable 5.2 ficou à frente do Gemini 4 Carbon",
+   "paragrafos": [
+    "No ranking da Artificial Analysis, empresa que compara modelos de IA, o Fable 5.2 ficou cinco pontos à frente do Gemini 4 Carbon, do Google.",
+    "Desde o fim de outubro, o Gemini 4 Carbon liderava o ranking."
+   ]
+  },
+  {
+   "tipo": "texto",
+   "rotulo": "Custo",
+   "titulo": "Mais barato por token, mais caro por tarefa",
+   "paragrafos": [
+    "O preço por token caiu 20% em relação ao Fable 5.1, mas o modelo gera mais tokens: no esforço máximo, cada tarefa do ranking custou o dobro, segundo a Artificial Analysis."
+   ]
+  }
+ ],
+ "por_que_importa": {
+  "rotulo": "Anthropic",
+  "texto": "No fim de outubro, o Google tirou da Anthropic o primeiro lugar; nesta segunda, a Anthropic o retomou com folga. Entre os modelos mais avançados, o preço por token diz cada vez menos sobre quanto custa usá-los: o Fable 5.2 ficou mais barato por token e, no esforço máximo, mais caro por tarefa."
+ },
+ "tambem": [
+  "Novo modelo da Meta empata com o Claude Haiku por um terço do custo",
+  "Atalho do Claude Code deixa senhas de empresas expostas no GitHub"
+ ]
+}
