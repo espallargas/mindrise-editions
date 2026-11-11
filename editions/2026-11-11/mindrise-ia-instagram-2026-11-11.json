@@ -1,0 +1,15 @@
+{"faixa": "lavanda",
+ "capa": {"manchete": "Google libera o Gemini 4 Carbon por um quarto do preço do Claude Fable"},
+ "miolo": [
+  {"tipo": "texto", "rotulo": "O que aconteceu", "titulo": "O Google liberou o Gemini 4 Carbon",
+   "paragrafos": ["O Google liberou nesta terça o Gemini 4 Carbon na API paga e no plano AI Ultra.",
+                  "Desde o fim de outubro, o Gemini 4 Carbon, modelo mais forte do Google, estava restrito a profissionais de defesa cibernética."]},
+  {"tipo": "texto", "rotulo": "Equipe de agentes", "titulo": "Um pedido vira uma equipe de agentes",
+   "paragrafos": ["O Google também mostrou em prévia o /swarm, que transforma um pedido numa equipe de agentes.",
+                  "O /swarm funciona no Antigravity, plataforma de programação do Google: o Carbon planeja e coordena, e modelos mais rápidos executam as tarefas menores."]},
+  {"tipo": "texto", "rotulo": "Preço", "titulo": "Um quarto do preço do Claude Fable 5.2",
+   "paragrafos": ["Na API, o Carbon custa um quarto do preço por token do Claude Fable 5.2, da Anthropic.",
+                  "Até 30 de novembro, o Carbon custa US$ 2 (cerca de R$ 11) por milhão de tokens de entrada; depois, o preço dobra."]}
+ ],
+ "por_que_importa": {"rotulo": "Google", "texto": "Na segunda-feira, a Anthropic tirou do Carbon o primeiro lugar do ranking da Artificial Analysis, empresa que compara modelos de IA; um dia depois, o Google abriu o modelo com preço promocional. Entre os modelos mais avançados, a disputa por clientes passa a ser também por preço. Quem paga pela API ganha um modelo de ponta mais barato que o Fable 5.2, que custa o dobro mesmo depois da promoção."},
+ "tambem": ["Anthropic pode valer até US$ 1,4 trilhão na bolsa, acima da OpenAI", "Claude entra em reuniões e monta o plano enquanto a equipe conversa"]}
