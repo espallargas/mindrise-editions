@@ -1,0 +1,15 @@
+{"faixa": "ameixa-dark",
+ "capa": {"manchete": "Google lança modelo que escolhe respostas para até mil perguntas de uma vez"},
+ "miolo": [
+  {"tipo": "texto", "rotulo": "O que aconteceu", "titulo": "O Google lançou o Gemini Decision 1",
+   "paragrafos": ["O Gemini Decision 1, que o Google lançou nesta quarta, dá uma probabilidade a cada opção e responde até mil perguntas de sim ou não, múltipla escolha ou nota de uma só vez.",
+                  "O Gemini Decision 1 não escreve respostas: recebe uma lista de alternativas e indica a mais adequada."]},
+  {"tipo": "texto", "rotulo": "Grau de confiança", "titulo": "Os casos duvidosos vão para outro modelo ou uma pessoa",
+   "paragrafos": ["Essa probabilidade funciona como grau de confiança: quem usa o Decision 1 pode escalar os casos duvidosos a outro modelo ou a uma pessoa.",
+                  "Por enquanto, ele funciona só na API do Gemini e chega em breve ao Google Cloud."]},
+  {"tipo": "texto", "rotulo": "Preço", "titulo": "Quase cinco vezes menor que o do Gemini 3.5 Flash-Lite",
+   "paragrafos": ["O preço é de US$ 0,10 (cerca de R$ 0,56) por milhão de tokens de entrada, e a resposta não é cobrada.",
+                  "Segundo o Google, nos mesmos testes, o custo é quase cinco vezes menor que o do Gemini 3.5 Flash-Lite, seu modelo básico."]}
+ ],
+ "por_que_importa": {"rotulo": "Google", "texto": "Um agente de atendimento, por exemplo, decide a cada mensagem se responde sozinho, consulta um sistema ou chama um modelo mais caro. Agora o Google vende essas escolhas a quem monta agentes, por uma fração do preço de um modelo comum. Quando a escolha é qual modelo chamar, ela define qual lab recebe o pedido, e o Google quer manter essa decisão rodando em seus servidores."},
+ "tambem": ["Com dinheiro do governo britânico, Fractile capta US$ 720 milhões para chips de IA", "Em quatro semanas, agentes do Google provam a segurança da criptografia do Signal"]}
