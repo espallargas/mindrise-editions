@@ -1,0 +1,43 @@
+{
+ "faixa": "lavanda",
+ "capa": {
+  "manchete": "Jensen Huang deixa a Nvidia, e diretora financeira assume como interina"
+ },
+ "miolo": [
+  {
+   "tipo": "texto",
+   "rotulo": "O que aconteceu",
+   "titulo": "Jensen Huang renuncia ao comando da Nvidia",
+   "paragrafos": [
+    "Jensen Huang, que fundou a Nvidia e a comandou por 33 anos, renunciou nesta quinta aos cargos de CEO e de membro do conselho.",
+    "Colette Kress, diretora financeira da Nvidia desde 2013, assume como CEO interina e segue nas finanças até a escolha de um sucessor."
+   ]
+  },
+  {
+   "tipo": "texto",
+   "rotulo": "Investigação",
+   "titulo": "A saída veio depois de relatos sobre uma suposta espiã chinesa",
+   "paragrafos": [
+    "Na segunda-feira, veio a público que o conselho de administração abriu uma investigação sobre a relação de Huang com uma suposta espiã chinesa.",
+    "Segundo o TechCrunch, ele saiu depois de relatos de que teve casos amorosos com a suposta espiã e com uma subordinada direta. As suspeitas de espionagem não foram comprovadas."
+   ]
+  },
+  {
+   "tipo": "texto",
+   "rotulo": "Sucessão",
+   "titulo": "Sem plano de sucessão",
+   "paragrafos": [
+    "Huang nunca montou um plano de sucessão, segundo o TechCrunch, sugerindo que a troca foi inesperada.",
+    "A Nvidia ainda não escolheu quem vai sucedê-lo."
+   ]
+  }
+ ],
+ "por_que_importa": {
+  "rotulo": "Nvidia",
+  "texto": "Jensen Huang sempre foi a cabeça por trás de importantes negociações da Nvidia, com grandes clientes e com Washington, que decide quais empresas chinesas compram os chips mais avançados da Nvidia. Agora, a empresa avaliada em cerca de US$ 3,8 trilhões (cerca de R$ 21 trilhões) perde seu comandante de longa data, ainda sem sucessão definida. Na terça, na divulgação de resultados, Kress terá que mostrar ao mercado que a Nvidia funciona sem seu fundador."
+ },
+ "tambem": [
+  "Gemini rápido empata com modelo mais potente e está disponível na Busca",
+  "Google DeepMind ensina IA a ler o DNA de cada tipo de célula"
+ ]
+}
