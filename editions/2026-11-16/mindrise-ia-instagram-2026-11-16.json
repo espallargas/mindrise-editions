@@ -1,0 +1,16 @@
+{
+  "faixa": "ameixa-dark",
+  "capa": {"manchete": "Análise aponta treino de seis modelos chineses em chips proibidos da Nvidia"},
+  "miolo": [
+    {"tipo": "texto", "rotulo": "O que aconteceu", "titulo": "Seis modelos chineses trazem sinais de chips proibidos",
+     "paragrafos": ["Will DePue, que lidera a Unemployment Labs, grupo de pesquisa sem fins lucrativos, publicou a análise na última quinta-feira.",
+                    "Seis modelos de quatro empresas chinesas, como DeepSeek e Moonshot AI, trazem sinais de terem sido treinados em chips Blackwell, que a Nvidia não pode vender à China."]},
+    {"tipo": "texto", "rotulo": "O método", "titulo": "A pista estava nos arquivos que os labs publicam",
+     "paragrafos": ["A partir dos arquivos publicados, o método reconstrói os números aleatórios com que cada modelo começa seu treino.",
+                    "Cada tipo de chip distribui esses números de um jeito próprio, e esse padrão aponta em que chip o modelo foi treinado."]},
+    {"tipo": "texto", "rotulo": "O que falta provar", "titulo": "A análise não mostra onde os chips estavam",
+     "paragrafos": ["A análise não prova que todo o treino usou esses chips nem diz onde eles estavam: podiam estar fora da China, como na Malásia, segundo o TechCrunch."]}
+  ],
+  "por_que_importa": {"rotulo": "Unemployment Labs", "texto": "Neste ano, a Casa Branca já tinha acusado a Moonshot de usar chips proibidos, com base em fontes de inteligência. Agora a evidência está nos arquivos que os labs chineses publicam, e qualquer pesquisador pode conferi-la. Se os chips estavam fora da China, a proibição de venda não impede os labs chineses de usar os Blackwell. Se estavam na China, alguém os contrabandeou, e a corrida entre EUA e China pela IA mais avançada vira também caso de polícia."},
+  "tambem": ["Agentes do ChatGPT passam a pagar compras sem acesso aos dados do cartão", "Milhares de apps criados com a Lovable deixam passaportes e mensagens expostos"]
+}
