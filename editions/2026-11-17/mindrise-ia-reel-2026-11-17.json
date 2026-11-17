@@ -1,0 +1,22 @@
+{
+  "faixa": "lavanda",
+  "rotulo": "Riscos e segurança",
+  "manchete": "Ferramenta de IA invade redes em menos de três horas, alerta FBI",
+  "itens": {
+    "rotulo": "Como funciona",
+    "lista": [
+      {
+        "destaque": "Agentes de IA",
+        "texto": "executam sozinhos as etapas de um ataque"
+      },
+      {
+        "destaque": "Coreia do Sul",
+        "texto": "ataques roubaram dados de cerca de 67 mil pessoas"
+      }
+    ]
+  },
+  "por_que_importa": [
+    "O ARTEX funciona com modelos de vários labs, e os mais usados nos ataques são chineses.",
+    "Empresas e governos passam a precisar de defesas automatizadas, que reajam tão rápido quanto os próprios ataques."
+  ]
+}

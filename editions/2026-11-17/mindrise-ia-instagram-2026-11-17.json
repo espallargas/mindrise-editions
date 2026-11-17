@@ -1,0 +1,41 @@
+{
+  "faixa": "lavanda",
+  "capa": {
+    "manchete": "Ferramenta de IA invade redes em menos de três horas, alerta FBI"
+  },
+  "miolo": [
+    {
+      "tipo": "texto",
+      "rotulo": "O que aconteceu",
+      "titulo": "Criminosos já usam o ARTEX em invasões reais",
+      "paragrafos": [
+        "Criminosos usam o ARTEX, ferramenta de código aberto em que agentes de IA executam sozinhos as etapas de um ataque, com algumas invasões conseguindo acesso de administrador em menos de três horas, alertou o FBI na última sexta-feira."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "rotulo": "Os ataques",
+      "titulo": "Ataques roubaram dados de cerca de 67 mil pessoas",
+      "paragrafos": [
+        "Na Coreia do Sul, ataques com o ARTEX a instituições financeiras roubaram dados de cerca de 67 mil pessoas.",
+        "O FBI diz que esses ataques podem disparar alertas, mas deixam pouco tempo para a defesa reagir."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "rotulo": "Os modelos",
+      "titulo": "Atacantes preferem os modelos da DeepSeek",
+      "paragrafos": [
+        "O ARTEX funciona com modelos americanos ou chineses, com atacantes preferindo os da chinesa DeepSeek, que são baratos e não têm travas aparentes para cibersegurança."
+      ]
+    }
+  ],
+  "por_que_importa": {
+    "rotulo": "Riscos e segurança",
+    "texto": "Até aqui, a resposta dos labs ao risco de ataques com IA foi controlar quem usa seus modelos mais capazes: a OpenAI liberou o GPT-6 Cyber, seu modelo de cibersegurança, só a clientes aprovados. Com invasões que chegam ao acesso de administrador em menos de três horas, empresas e governos passam a precisar de defesas automatizadas, que reajam tão rápido quanto os próprios ataques."
+  },
+  "tambem": [
+    "EUA passam a exigir licença para vender chips avançados de IA ao Brasil",
+    "Plugin da Microsoft corta até 31% do custo de agentes de programação"
+  ]
+}
