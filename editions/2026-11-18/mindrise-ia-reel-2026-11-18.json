@@ -1,0 +1,23 @@
+{
+  "faixa": "ameixa-dark",
+  "rotulo": "OpenAI",
+  "manchete": "OpenAI chega perto do topo e corta o preço de seu modelo de ponta",
+  "sub": "O GPT-6.2 Astra e o GPT-6.2 Sol",
+  "itens": {
+    "rotulo": "Os detalhes",
+    "lista": [
+      {
+        "destaque": "Astra",
+        "texto": "custa 20% menos que o GPT-6 Astra"
+      },
+      {
+        "destaque": "Sol",
+        "texto": "empata com o GPT-6 Astra no ranking"
+      }
+    ]
+  },
+  "por_que_importa": [
+    "O novo Astra disputa o primeiro lugar cobrando o mesmo que o Fable 5.2.",
+    "A escolha entre OpenAI e Anthropic passa a depender de qual modelo resolve melhor cada tarefa."
+  ]
+}

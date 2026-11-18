@@ -1,0 +1,41 @@
+{
+  "faixa": "ameixa-dark",
+  "capa": {
+    "manchete": "OpenAI chega perto do topo e corta o preço de seu modelo de ponta"
+  },
+  "miolo": [
+    {
+      "tipo": "texto",
+      "rotulo": "O que aconteceu",
+      "titulo": "OpenAI lança o GPT-6.2 Astra e o GPT-6.2 Sol",
+      "paragrafos": [
+        "A OpenAI lançou nesta terça o GPT-6.2 Astra e o GPT-6.2 Sol, que, segundo a empresa, programam e operam computadores melhor que os modelos anteriores e já estão no ChatGPT Work, no Codex e na API."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "rotulo": "O ranking",
+      "titulo": "Astra passou o Gemini 4 Carbon",
+      "paragrafos": [
+        "Desde a semana passada, o Claude Fable 5.2, da Anthropic, lidera o ranking da Artificial Analysis, empresa que compara modelos de IA.",
+        "Nesta terça, a OpenAI respondeu com o GPT-6.2 Astra, que passou o Gemini 4 Carbon, do Google. O primeiro lugar segue com a Anthropic."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "rotulo": "O preço",
+      "titulo": "Astra custa 20% menos que o GPT-6 Astra",
+      "paragrafos": [
+        "O Astra custa US$ 8 (cerca de R$ 46) por milhão de tokens de entrada, 20% menos que o GPT-6 Astra e o mesmo preço do Claude Fable 5.2, da Anthropic."
+      ]
+    }
+  ],
+  "por_que_importa": {
+    "rotulo": "OpenAI",
+    "texto": "Em setembro, o GPT-6 Astra era o melhor modelo da OpenAI. Agora, o Sol, o mais barato dos dois, entrega esse nível, e o novo Astra disputa o primeiro lugar cobrando o mesmo que o Fable 5.2. Na Artificial Analysis, a OpenAI já ocupa a maior parte da lista de modelos com melhor custo por tarefa. Com os modelos mais avançados das duas empresas ao mesmo preço, a escolha entre OpenAI e Anthropic passa a depender de qual modelo resolve melhor cada tarefa."
+  },
+  "tambem": [
+    "Sem Jensen Huang, Nvidia supera previsões e corta vendas do H200 à China",
+    "Gemini que liga para empresas e faz compras fica grátis em seis países"
+  ]
+}
