@@ -1,0 +1,8 @@
+{"faixa": "lavanda",
+ "rotulo": "Anthropic",
+ "manchete": "Anthropic faz oferta de US$ 81 bilhões e estreia hoje na bolsa no maior IPO da história",
+ "numero": {"rotulo": "A avaliação", "valor": "US$ 1,5 tri", "texto": "a empresa sai avaliada em cerca de US$ 1,5 trilhão", "nota": "segundo a Fortune"},
+ "itens": {"rotulo": "Os detalhes", "lista": [
+   {"destaque": "US$ 83", "texto": "o preço de suas ações, acima da faixa prevista"},
+   {"destaque": "Amazon e Google", "texto": "podem ficar juntos com quase 30% da empresa"}]},
+ "por_que_importa": ["Agora qualquer investidor pode comprar ações da Anthropic.", "A OpenAI só deve abrir capital a partir de 2027, segundo a Fortune."]}

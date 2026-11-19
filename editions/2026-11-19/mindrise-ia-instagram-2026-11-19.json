@@ -1,0 +1,42 @@
+{
+  "faixa": "lavanda",
+  "capa": {
+    "manchete": "Anthropic faz oferta de US$ 81 bilhões e estreia hoje na bolsa no maior IPO da história"
+  },
+  "miolo": [
+    {
+      "tipo": "texto",
+      "rotulo": "O que aconteceu",
+      "titulo": "Anthropic fixa o preço de suas ações em US$ 83",
+      "paragrafos": [
+        "A Anthropic fixou nesta quarta o preço de suas ações em US$ 83, acima da faixa prevista, numa oferta de cerca de US$ 81 bilhões (cerca de R$ 470 bilhões), a maior da história, segundo o TechCrunch.",
+        "Os papéis estreiam hoje na Nasdaq."
+      ]
+    },
+    {
+      "tipo": "numero",
+      "rotulo": "A avaliação",
+      "valor": "US$ 1,5 tri",
+      "legenda": "avaliação da Anthropic, segundo a Fortune",
+      "paragrafos": [
+        "A procura fez a Anthropic ampliar a oferta, e a empresa sai avaliada em cerca de US$ 1,5 trilhão, segundo a Fortune, mais que a OpenAI em sua última rodada, segundo o TechCrunch."
+      ]
+    },
+    {
+      "tipo": "texto",
+      "rotulo": "O risco",
+      "titulo": "O preço já embute expectativas muito altas",
+      "paragrafos": [
+        "O risco, segundo Jay Ritter, professor da Universidade da Flórida, ouvido pela CBS, é que o preço já embute expectativas muito altas e que clientes podem trocar o Claude por modelos abertos mais baratos."
+      ]
+    }
+  ],
+  "por_que_importa": {
+    "rotulo": "Anthropic",
+    "texto": "Até aqui, investir num lab de ponta era restrito a big techs e fundos. Agora qualquer investidor pode comprar ações da Anthropic, e a empresa passa a ter marcação de preço diariamente. Enquanto isso, a Anthropic disputa a liderança com a OpenAI usando dinheiro da bolsa para bancar quase US$ 1 trilhão (cerca de R$ 5,8 trilhões) em chips e infraestrutura até 2045, e passa a prestar contas dessa estratégia aos acionistas a cada balanço."
+  },
+  "tambem": [
+    "Novo Gemini empata com o Claude em programação por menos da metade do preço",
+    "Startup diz que sua IA já sente cheiros tão bem quanto uma pessoa comum"
+  ]
+}
