@@ -1,0 +1,42 @@
+{
+ "faixa": "ameixa-dark",
+ "capa": {
+  "manchete": "Um dos sete Problemas do Milênio ganha prova feita com o Claude"
+ },
+ "miolo": [
+  {
+   "tipo": "texto",
+   "rotulo": "O que aconteceu",
+   "titulo": "Matemáticos independentes certificam a prova",
+   "paragrafos": [
+    "Levent Alpöge, matemático da Anthropic, publicou na última sexta-feira uma prova da hipótese de Riemann feita com o Claude, e matemáticos independentes a certificaram no dia seguinte."
+   ]
+  },
+  {
+   "tipo": "texto",
+   "rotulo": "O problema",
+   "titulo": "Uma hipótese proposta em 1859",
+   "paragrafos": [
+    "Em 1859, o matemático Bernhard Riemann propôs que um padrão escondido rege os números primos, hoje um dos sete Problemas do Milênio.",
+    "A prova está escrita em linguagem de computador, e ainda não existe uma versão em texto que um matemático consiga acompanhar."
+   ]
+  },
+  {
+   "tipo": "texto",
+   "rotulo": "A verificação",
+   "titulo": "Chance de erro \"aproximadamente zero\"",
+   "paragrafos": [
+    "A prova tem 17 milhões de linhas em Lean, linguagem de programação que verifica provas matemáticas.",
+    "Andrew Sutherland, matemático do MIT, rodou o código e disse à Scientific American que a chance de haver algo errado é \"aproximadamente zero\"."
+   ]
+  }
+ ],
+ "por_que_importa": {
+  "rotulo": "Anthropic",
+  "texto": "A hipótese de Riemann é um dos problemas mais perseguidos da matemática e resistiu por 167 anos a gerações de matemáticos. Uma prova desse porte exige encadear milhões de passos sem nenhum erro, um tipo de raciocínio que até pouco tempo parecia fora do alcance das máquinas. Agora, os modelos começam a fazer o trabalho de um pesquisador de ponta, e o ritmo das descobertas passa a depender também do poder de computação dos labs."
+ },
+ "tambem": [
+  "Gemini passa a operar o Mac pelo usuário, em segundo plano",
+  "Ações de IA levam bolsa americana à correção, e Anthropic cai 9%"
+ ]
+}

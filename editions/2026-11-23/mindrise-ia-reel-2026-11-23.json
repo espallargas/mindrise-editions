@@ -1,0 +1,23 @@
+{
+ "faixa": "ameixa-dark",
+ "rotulo": "Anthropic",
+ "manchete": "Um dos sete Problemas do Milênio ganha prova feita com o Claude",
+ "sub": "Publicada na última sexta-feira",
+ "itens": {
+  "rotulo": "A verificação",
+  "lista": [
+   {
+    "destaque": "17 milhões",
+    "texto": "de linhas em Lean, linguagem que verifica provas matemáticas"
+   },
+   {
+    "destaque": "Sutherland, do MIT",
+    "texto": "a chance de haver algo errado é \"aproximadamente zero\""
+   }
+  ]
+ },
+ "por_que_importa": [
+  "A hipótese de Riemann resistiu por 167 anos a gerações de matemáticos.",
+  "Agora, os modelos começam a fazer o trabalho de um pesquisador de ponta."
+ ]
+}
