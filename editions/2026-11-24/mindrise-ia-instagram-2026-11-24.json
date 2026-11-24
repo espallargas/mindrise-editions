@@ -1,0 +1,42 @@
+{
+ "faixa": "lavanda",
+ "capa": {
+  "manchete": "Claude passa a corrigir e aprovar código, com regras escritas por cada equipe"
+ },
+ "miolo": [
+  {
+   "tipo": "texto",
+   "rotulo": "O que aconteceu",
+   "titulo": "Três agentes para quem usa o GitHub",
+   "paragrafos": [
+    "A Anthropic lançou nesta segunda o Claude Ship, um grupo de três agentes para quem usa o GitHub: um revisa as mudanças de código, outro corrige problemas e o terceiro aprova sozinho o que a regra da equipe permitir."
+   ]
+  },
+  {
+   "tipo": "texto",
+   "rotulo": "A regra",
+   "titulo": "Cada equipe escreve a regra de aprovação",
+   "paragrafos": [
+    "A regra de aprovação é escrita em linguagem comum, e a equipe define quais mudanças continuam passando por uma pessoa.",
+    "O agente de revisão, que já existia, é o único liberado para uso geral nos planos Team e Enterprise. Os outros dois estão em beta."
+   ]
+  },
+  {
+   "tipo": "texto",
+   "rotulo": "Na própria Anthropic",
+   "titulo": "O Claude já escreve a maior parte do código",
+   "paragrafos": [
+    "Na equipe do Claude Code, agente de programação da Anthropic, o Claude já escreve a maior parte do código.",
+    "As mudanças incorporadas ao código principal dobraram de junho a setembro, e a proporção de mudanças revertidas caiu mais de 40%, segundo a empresa."
+   ]
+  }
+ ],
+ "por_que_importa": {
+  "rotulo": "Anthropic",
+  "texto": "A aprovação de cada mudança era a última checagem humana antes de um erro chegar aos clientes, e o principal gargalo num mundo onde o código é escrito por agentes. Com o Claude Ship, essa verificação vira uma regra escrita pela equipe, e a pessoa só entra nos casos que a regra indicar. A Anthropic, que já vende o agente que escreve o código, passa a oferecer também o agente que aprova."
+ },
+ "tambem": [
+  "OpenAI e Cisco liberam proteção para Linux até a correção da falha chegar",
+  "Nvidia traz Jensen Huang de volta 11 dias depois da renúncia"
+ ]
+}

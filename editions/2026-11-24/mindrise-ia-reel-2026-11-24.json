@@ -1,0 +1,22 @@
+{
+ "faixa": "lavanda",
+ "rotulo": "Anthropic",
+ "manchete": "Claude passa a corrigir e aprovar código, com regras escritas por cada equipe",
+ "itens": {
+  "rotulo": "Como funciona",
+  "lista": [
+   {
+    "destaque": "Três agentes",
+    "texto": "um revisa as mudanças de código, outro corrige problemas e o terceiro aprova sozinho"
+   },
+   {
+    "destaque": "A regra",
+    "texto": "a equipe define quais mudanças continuam passando por uma pessoa"
+   }
+  ]
+ },
+ "por_que_importa": [
+  "A aprovação de cada mudança era a última checagem humana antes de um erro chegar aos clientes.",
+  "A Anthropic, que já vende o agente que escreve o código, passa a oferecer também o agente que aprova."
+ ]
+}
