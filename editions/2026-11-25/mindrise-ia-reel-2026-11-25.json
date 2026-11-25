@@ -1,0 +1,27 @@
+{
+ "faixa": "ameixa-dark",
+ "rotulo": "OpenAI",
+ "manchete": "GPT-6 projeta proteínas com código, e 35 de 322 funcionam em laboratório",
+ "numero": {
+  "rotulo": "Em laboratório",
+  "valor": "35 de 322",
+  "texto": "se ligaram ao alvo em testes do laboratório parceiro Onava"
+ },
+ "itens": {
+  "rotulo": "A ressalva",
+  "lista": [
+   {
+    "destaque": "Sequências",
+    "texto": "modelos especializados ainda propuseram sequências e filtraram quais desenhos valia testar"
+   },
+   {
+    "destaque": "Sem revisão",
+    "texto": "o estudo ainda não passou pela revisão de outros cientistas"
+   }
+  ]
+ },
+ "por_que_importa": [
+  "Desenhar uma proteína nova exigia ferramentas criadas só para isso.",
+  "O mesmo tipo de modelo que escreve código entrega moléculas que se ligam ao alvo."
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "faixa": "ameixa-dark",
+ "capa": {
+  "manchete": "GPT-6 projeta proteínas com código, e 35 de 322 funcionam em laboratório"
+ },
+ "miolo": [
+  {
+   "tipo": "texto",
+   "rotulo": "O que aconteceu",
+   "titulo": "GPT-6 desenha proteínas sem modelos especialistas",
+   "paragrafos": [
+    "A OpenAI publicou nesta terça um estudo em que a família GPT-6 desenha a forma de proteínas sem usar modelos especialistas em biologia.",
+    "A família GPT-6 faz isso escrevendo código, com o mesmo raciocínio que usa em outras tarefas."
+   ]
+  },
+  {
+   "tipo": "numero",
+   "rotulo": "Em laboratório",
+   "valor": "35 de 322",
+   "legenda": "proteínas se ligaram ao alvo em testes do laboratório parceiro Onava",
+   "paragrafos": [
+    "As moléculas são minibinders, pequenas proteínas projetadas para se ligar a um alvo escolhido; dois dos cinco alvos testados concentraram os acertos."
+   ]
+  },
+  {
+   "tipo": "texto",
+   "rotulo": "A ressalva",
+   "titulo": "Modelos especializados ainda filtraram os desenhos",
+   "paragrafos": [
+    "A OpenAI ressalva que modelos especializados ainda propuseram sequências e filtraram quais desenhos valia testar, e que o estudo ainda não passou pela revisão de outros cientistas."
+   ]
+  }
+ ],
+ "por_que_importa": {
+  "rotulo": "OpenAI",
+  "texto": "Desenhar uma proteína nova exigia ferramentas criadas só para isso, dominadas por poucos laboratórios. Agora o mesmo tipo de modelo que escreve texto e código entrega moléculas que se ligam ao alvo em testes reais. A disputa entre os grandes labs se desdobra para descobertas científicas de ponta, e o prêmio é encurtar o tempo entre a hipótese e o resultado no laboratório."
+ },
+ "tambem": [
+  "EUA cortam acesso da Megaspeed e de uma unidade da Alibaba a chips americanos",
+  "iFood põe agentes para corrigir código em seus 15 mil repositórios"
+ ]
+}
