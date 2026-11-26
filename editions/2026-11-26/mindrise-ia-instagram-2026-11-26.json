@@ -1,0 +1,43 @@
+{
+ "faixa": "lavanda",
+ "capa": {
+  "manchete": "Cloudflare dá a sites uma busca própria para agentes de IA"
+ },
+ "miolo": [
+  {
+   "tipo": "texto",
+   "rotulo": "O que aconteceu",
+   "titulo": "Sites ganham uma busca própria para agentes de IA",
+   "paragrafos": [
+    "A Cloudflare, que protege sites contra bots e ataques, lançou nesta quarta o Search for Agents.",
+    "A ferramenta cria no próprio site um endereço de busca que os agentes de IA consultam em vez de abrir página por página."
+   ]
+  },
+  {
+   "tipo": "texto",
+   "rotulo": "Como funciona",
+   "titulo": "O agente recebe os trechos do site",
+   "paragrafos": [
+    "Ligada a ferramenta, a Cloudflare lê e organiza todas as páginas do site para montar a busca.",
+    "O agente faz uma pergunta e recebe os trechos do site que respondem a ela, não um texto escrito por outra IA."
+   ]
+  },
+  {
+   "tipo": "texto",
+   "rotulo": "Acesso",
+   "titulo": "Um clique, inclusive no plano gratuito",
+   "paragrafos": [
+    "O dono do site liga a ferramenta com um clique, inclusive no plano gratuito, com limites de uso.",
+    "A busca segue as mesmas regras que o dono do site já usa para bloquear bots."
+   ]
+  }
+ ],
+ "por_que_importa": {
+  "rotulo": "Cloudflare",
+  "texto": "Com o Search for Agents, o próprio site passa a responder, com seus trechos e sob suas regras de acesso. Se as plataformas de agentes adotarem a busca, os donos de sites ganham controle sobre o que a IA lê deles, e os intermediários perdem parte do que vendem."
+ },
+ "tambem": [
+  "SpaceX ganha aval para lançar 1 milhão de satélites de IA em órbita",
+  "Matemáticos se unem para entender prova da hipótese de Riemann feita com IA"
+ ]
+}

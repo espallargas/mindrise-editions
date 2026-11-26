@@ -1,0 +1,22 @@
+{
+ "faixa": "lavanda",
+ "rotulo": "Cloudflare",
+ "manchete": "Cloudflare dá a sites uma busca própria para agentes de IA",
+ "itens": {
+  "rotulo": "Como funciona",
+  "lista": [
+   {
+    "destaque": "Trechos",
+    "texto": "o agente faz uma pergunta e recebe os trechos do site"
+   },
+   {
+    "destaque": "Um clique",
+    "texto": "o dono do site liga a ferramenta com um clique, inclusive no plano gratuito"
+   }
+  ]
+ },
+ "por_que_importa": [
+  "Com o Search for Agents, o próprio site passa a responder, sob suas regras de acesso.",
+  "Se as plataformas de agentes adotarem a busca, os donos de sites ganham controle sobre o que a IA lê deles."
+ ]
+}
