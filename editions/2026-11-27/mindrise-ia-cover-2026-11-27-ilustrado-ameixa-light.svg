@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 315" width="1200" height="630">
+<rect x="0" y="0" width="600" height="315" fill="#B79AF0"/>
+<rect x="120" y="87.5" width="120" height="40" rx="10" fill="#6B44A8"/>
+<rect x="140" y="103.5" width="44" height="8" rx="4" fill="#FAF9F5"/>
+<circle cx="214" cy="107.5" r="7" fill="#FAF9F5"/>
+<rect x="120" y="137.5" width="120" height="40" rx="10" fill="#6B44A8"/>
+<rect x="140" y="153.5" width="44" height="8" rx="4" fill="#FAF9F5"/>
+<circle cx="214" cy="157.5" r="7" fill="#FAF9F5"/>
+<rect x="120" y="187.5" width="120" height="40" rx="10" fill="#6B44A8"/>
+<rect x="140" y="203.5" width="44" height="8" rx="4" fill="#FAF9F5"/>
+<circle cx="214" cy="207.5" r="7" fill="#FAF9F5"/>
+<rect x="260" y="87.5" width="22" height="140" rx="11" fill="#141413"/>
+<rect x="298" y="87.5" width="22" height="140" rx="11" fill="#141413"/>
+<path d="M340 227.5 V180.5 A13.0 13.0 0 0 1 366 180.5 V227.5 Z" fill="#FAF9F5"/>
+<path d="M378 227.5 V180.5 A13.0 13.0 0 0 1 404 180.5 V227.5 Z" fill="#FAF9F5"/>
+<path d="M416 227.5 V180.5 A13.0 13.0 0 0 1 442 180.5 V227.5 Z" fill="#FAF9F5"/>
+<path d="M454 227.5 V180.5 A13.0 13.0 0 0 1 480 180.5 V227.5 Z" fill="#FAF9F5"/>
+</svg>
