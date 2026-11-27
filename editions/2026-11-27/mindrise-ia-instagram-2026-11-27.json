@@ -1,0 +1,42 @@
+{
+ "faixa": "ameixa-dark",
+ "capa": {
+  "manchete": "Nvidia suspende envio de servidores a quatro países do Sudeste Asiático"
+ },
+ "miolo": [
+  {
+   "tipo": "texto",
+   "rotulo": "O que aconteceu",
+   "titulo": "Nvidia suspende envio de servidores a quatro países",
+   "paragrafos": [
+    "A Nvidia pediu a fabricantes como Dell e Super Micro que parem de enviar servidores a Malásia, Singapura, Tailândia e Indonésia enquanto confere se seus parceiros na região cumprem as regras de exportação dos EUA, segundo o Wall Street Journal.",
+    "A pausa não tem data para acabar."
+   ]
+  },
+  {
+   "tipo": "texto",
+   "rotulo": "A brecha",
+   "titulo": "Empresas chinesas usavam os chips a distância",
+   "paragrafos": [
+    "Empresas chinesas usavam chips da Nvidia a distância, em data centers nesses países, brecha que o governo americano fechou neste mês.",
+    "Os EUA passaram a exigir licença para vender chips de IA a data centers que atendem empresas chinesas."
+   ]
+  },
+  {
+   "tipo": "texto",
+   "rotulo": "O peso para a China",
+   "titulo": "Cerca de 24% da computação de IA da China",
+   "paragrafos": [
+    "Para o Institute for Progress, centro de estudos americano, esses data centers fornecem cerca de 24% da computação de IA da China."
+   ]
+  }
+ ],
+ "por_que_importa": {
+  "rotulo": "Nvidia",
+  "texto": "A regra de Washington já exigia licença para o acesso remoto; agora, a fiscalização no Sudeste Asiático fica com a própria Nvidia, que abre mão de vendas em quatro países. A pausa não tem prazo: os data centers da região ficam sem servidores novos até a Nvidia aprovar cada um de seus parceiros locais."
+ },
+ "tambem": [
+  "Nvidia pode perder nota de crédito por depender demais de Jensen Huang",
+  "Uso de tokens cresce 44 vezes, mas o gasto parou em outubro"
+ ]
+}

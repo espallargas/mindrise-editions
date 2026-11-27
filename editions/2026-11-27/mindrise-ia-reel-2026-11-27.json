@@ -1,0 +1,7 @@
+{"faixa": "ameixa-dark",
+ "rotulo": "Nvidia",
+ "manchete": "Nvidia suspende envio de servidores a quatro países do Sudeste Asiático",
+ "itens": {"rotulo": "A pausa", "lista": [
+   {"destaque": "Quatro países", "texto": "Malásia, Singapura, Tailândia e Indonésia"},
+   {"destaque": "A brecha", "texto": "empresas chinesas usavam chips da Nvidia a distância, em data centers nesses países"}]},
+ "por_que_importa": ["A fiscalização no Sudeste Asiático fica com a própria Nvidia, que abre mão de vendas em quatro países.", "A pausa não tem prazo."]}
